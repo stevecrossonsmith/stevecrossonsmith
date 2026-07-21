@@ -1,9 +1,15 @@
 ## Hi there 👋
 
-<!--
+<!-- 
 **stevecrossonsmith/stevecrossonsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
 
-Here are some ideas to get you started:
+I work with SDG Group in a client-facing presales capacity. We are a global data, analytics and AI consultancy and we work with all of the common hyperscalers
+and most modern data and AI platforms.
+
+These include Snowflake, Databricks, Fabric and SAP Datasphere.
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--!>
